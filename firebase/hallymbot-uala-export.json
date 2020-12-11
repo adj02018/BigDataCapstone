@@ -1,0 +1,2098 @@
+{
+  "building" : {
+    "Campus Life Center" : {
+      "infom" : "3시방향의 9번 건물에 해당합니다.\n학생지원팀이나 학교식당 등 편의시설들이 배치되어있습니다."
+    },
+    "공학관" : {
+      "infom" : "11시 방향의 1번 건물입니다.\n자연과학관(7번) 또는 대학본부(2번)의 1층 엘리베이터를 이용하면 편하게 올라갈 수 있습니다."
+    },
+    "국제관" : {
+      "infom" : "3시 방향의 14번 건물에 해당합니다.\nCLC(9번)에서 계단을 내려가면 바로 보이는 건물에 해당합니다."
+    },
+    "국제회의관" : {
+      "infom" : "6시 방향의 15번 건물에 해당합니다.\n정문으로 들어오자마자 오른쪽에 위치된 흰색 작은 건물입니다."
+    },
+    "기초교육관" : {
+      "infom" : "12시 방향의 16번 건물입니다.\n공학관(1번) 뒷길을 통해 테니스장(33번)을 지나서 갈 수도 있습니다."
+    },
+    "대학본부-인문1관" : {
+      "infom" : "중앙의 2번 건물에 해당합니다.\n정문 도로를 따라 오르면 바로 보이는 건물입니다."
+    },
+    "대학본부별관" : {
+      "infom" : "중앙의 5번 건물에 해당합니다.\\n대학본부(2번)와 마찬가지로 올라가자마자 정문에서 도로를 따라오르면 바로 확인 하실 수 있습니다."
+    },
+    "도헌글로벌스쿨" : {
+      "infom" : "7시 방향의 23번 건물에 해당합니다.\n정문에서 도서관(17번) 옆길을 통해 올라가거나, 생명과학관(8번) 정면의 엘리베이터를 타고 이동할 수 있습니다."
+    },
+    "사회·경영1관" : {
+      "infom" : "12시 방향의 10번 건물에 해당합니다.\n정문 도로를 따라가다가 CLC(9번)이 보이면 그 맞은편으로 이동하면 됩니다. "
+    },
+    "사회·경영2관" : {
+      "infom" : "12시 방향의 13번 건물에 해당합니다.\n띠아모 커피가 위치해있습니다."
+    },
+    "산학협력관" : {
+      "infom" : "10시방향의 22번 건물에 해당합니다.\n 공학관(1번) 옆쪽에 길을 따라가다보면 대문짝만하게 적혀있어 쉽게 확인할 수 있습니다."
+    },
+    "생명과학관" : {
+      "infom" : "8시방향의 8번 건물에 해당합니다.\n1층에는 커피숍(텀브커피)이 있고, 4층으로도 출입구가 있어 공학관 가는 학생들도 이용하고는 합니다."
+    },
+    "의학관" : {
+      "infom" : "중앙에 위치한 3번 건물에 해당합니다."
+    },
+    "인문2관" : {
+      "infom" : "중앙에 위치한 4번 건물에 해당합니다.\n대학본부(2번)과 붙어 있으며, 대학본부 3층을 통해 가는게 일반적입니다."
+    },
+    "일송기념도서관" : {
+      "infom" : "6시 방향의 17번 건물에 해당합니다.\n정문을 통해가면 가장 먼저 볼 수 있는 건물입니다. "
+    },
+    "일송아트홀" : {
+      "infom" : "10시 방향의 11번 건물에 해당합니다.\n공학관과 마주보고 있는 건물입니다."
+    },
+    "자연과학관" : {
+      "infom" : "중앙의 7번 건물에 해당합니다.\n엘리베이터를 타고 4층에서 내리면 공학관에 쉽게 갈 수 있으며, 편의점이 있습니다. 또한 4층 구름다리는 의학관과 연결되어 있고 프린트를 할 수 있는 매점이 있습니다."
+    },
+    "학군단" : {
+      "infom" : "12시 방향의 19번 건물에 해당합니다.\\n사회경영1관을 가다보면 쉽게 확인할 수 있습니다."
+    },
+    "학생생활관 1관" : {
+      "infom" : "3시 방향의 24번 건물에 해당합니다.\n가장 오래된 기숙사로 3인실입니다. 수용인원이 2번째로 많은 건물이지만, 오래된만큼 단점이 명확하게 드러나는 건물입니다."
+    },
+    "학생생활관 2관" : {
+      "infom" : "3시 방향의 25번 건물에 해당합니다.\n18년 2월에 리모델링되었으며 남학우분들만 이용할 수 있는 3인실 기숙사입니다."
+    },
+    "학생생활관 3관" : {
+      "infom" : "3시 방향의 26번 건물에 해당합니다.\n주로 외국인들을 위한 기숙사입니다."
+    },
+    "학생생활관 4관" : {
+      "infom" : "3시 방향의 27번 건물에 해당합니다.\n17년8월에 리모델링하였고 여학우분들만 이용할 수 있는 3인실 기숙사입니다."
+    },
+    "학생생활관 5관" : {
+      "infom" : "3시 방향의 28번 건물에 해당합니다.\n12년2월에 리모델링하였고 여학우분들만 이용할 수 있는 3인실 기숙사입니다."
+    },
+    "학생생활관 6관" : {
+      "infom" : "3시 방향의 29번 건물에 해당합니다.\n12년2월에 리모델링하였고 남학우분들만 이용할 수 있는 3인실 기숙사입니다."
+    },
+    "학생생활관 7관" : {
+      "infom" : "3시 방향의 30번 건물에 해당합니다.\n12년8월에 리모델링하였고 여학우분들만 이용할 수 있는 2인실 기숙사입니다."
+    },
+    "학생생활관 8관" : {
+      "infom" : "3시 방향의 31번 건물입니다.\n가장 많은 수용인원을 자랑하고 시설도 좋지만 그만큼 비싼 가격의 기숙사입니다."
+    },
+    "한림레크리에이션센터" : {
+      "infom" : "5시 방향의 18번 건물입니다.\n정문으로 들어오면 우측에 커다란 건물을 볼 수 있습니다. 1층엔 커피숍이 있고 운동시설도 준비되어있습니다."
+    },
+    "한림중개의과학연구원" : {
+      "infom" : "중앙의 21번 건물에 해당합니다."
+    }
+  },
+  "date" : {
+    "2021-1학기 수강신청" : {
+      "end" : "2021.02.19(금)",
+      "start" : "2021.02.15(월)"
+    },
+    "강의보충" : {
+      "end" : "2020.12.16(수)",
+      "start" : "2020.12.07(월)"
+    },
+    "개강" : {
+      "start" : "2021.03.02(화)"
+    },
+    "개천절" : {
+      "start" : "2020.10.03(토)"
+    },
+    "겨울학기" : {
+      "end" : "2021.01.15(금)",
+      "start" : "2020.12.24(목)"
+    },
+    "기말고사" : {
+      "end" : "2020.12.23(수)",
+      "start" : "2020.12.17(목)"
+    },
+    "비봉축전" : {
+      "end" : "2020.11.05(목)",
+      "start" : "2020.11.03(화)"
+    },
+    "사전수강신청" : {
+      "end" : "2021.01.29(금)",
+      "start" : "2021.01.27(수)"
+    },
+    "설날 연휴" : {
+      "end" : "2021.02.13(토)",
+      "start" : "2021.02.11(목)"
+    },
+    "성적이의신청" : {
+      "end" : "2020.12.31(목)",
+      "start" : "2020.12.30(수)"
+    },
+    "성적제출 마감" : {
+      "start" : "2020.12.29(화)"
+    },
+    "성탄절" : {
+      "start" : "2020.12.25(금))"
+    },
+    "수강신청 변경" : {
+      "end" : "2020.09.11(금)",
+      "start" : "2020.09.01(화)"
+    },
+    "수강철회 및 대체재이수" : {
+      "end" : "2020.09.23(수)",
+      "start" : "2020.09.21(월)"
+    },
+    "수시면접일" : {
+      "start" : "2020.12.11(금)"
+    },
+    "수업종료" : {
+      "start" : "2020.12.23(수)"
+    },
+    "신정" : {
+      "start" : "2021.01.01(금)"
+    },
+    "재학생 등록" : {
+      "end" : "2021.02.26(금)",
+      "start" : "2021.02.22(월)"
+    },
+    "중간고사" : {
+      "end" : "2020.10.23(금)",
+      "start" : "2020.10.09(월)"
+    },
+    "추석연휴" : {
+      "end" : "2020.10.02(금)",
+      "start" : "2020.09.30(수)"
+    },
+    "한글날" : {
+      "start" : "2020.10.09(금)"
+    }
+  },
+  "professor" : {
+    "Allen Bruce Ray" : {
+      "call" : "033-248-2969",
+      "course1" : "글로벌융합대학",
+      "email" : "bruce@hallym.ac.kr, abray20012001@yahoo.com",
+      "room" : "국제교육관 14605"
+    },
+    "Prieler Michael" : {
+      "call" : "033-248-1938",
+      "course1" : "미디어스쿨",
+      "email" : "prieler@hallym.ac.kr",
+      "room" : "사회·경영1관 10507"
+    },
+    "Satish B Nimse" : {
+      "call" : "033-248-2076",
+      "course1" : "미래융합스쿨",
+      "course2" : "화학과",
+      "email" : "Satish_nimse@hallym.ac.kr",
+      "room" : "공학관 1350"
+    },
+    "강경화" : {
+      "call" : "033-248-2716",
+      "course1" : "간호대학",
+      "email" : "kkh05@hallym.ac.kr",
+      "room" : "자연과학관 7405"
+    },
+    "강명현" : {
+      "call" : "033-248-1920",
+      "course1" : "미디어스쿨",
+      "email" : "mhkang@hallym.ac.kr",
+      "room" : "사회·경영1관 10206"
+    },
+    "강연욱" : {
+      "call" : "033-248-1724",
+      "course1" : "사회과학대학",
+      "email" : "ykang@hallym.ac.kr",
+      "room" : "사회경영1관 10536"
+    },
+    "강영희" : {
+      "call" : "033-248-2132",
+      "course1" : "자연과학대학",
+      "email" : "yhkang@hallym.ac.kr",
+      "room" : "생명과학관 8513"
+    },
+    "강일준" : {
+      "call" : "033-248-2135",
+      "course1" : "자연과학대학",
+      "email" : "ijkang@hallym.ac.kr",
+      "room" : "생명과학관 8509"
+    },
+    "강태천" : {
+      "call" : "033-248-2524",
+      "course1" : "의과대학",
+      "email" : "tckang@hallym.ac.kr",
+      "room" : "의학과 3315"
+    },
+    "고도흥" : {
+      "course1" : "자연과학대학",
+      "email" : "dhko7@hallym.ac.kr"
+    },
+    "고민희" : {
+      "call" : "033-248-1591",
+      "course1" : "인문대학",
+      "email" : "miniko@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2527"
+    },
+    "고시로 아끼코" : {
+      "call" : "033-248-1615",
+      "course1" : "인문대학",
+      "email" : "koshiro@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2401"
+    },
+    "고영웅" : {
+      "call" : "033-248-2329",
+      "course1" : "소프트웨어융합대학",
+      "email" : "yuko@hallym.ac.kr",
+      "room" : "공학관 A1207"
+    },
+    "고윤순" : {
+      "call" : "033-248-1761",
+      "course1" : "사회과학대학",
+      "email" : "yskoh@hallym.ac.kr",
+      "room" : "사회·경영1관 10431"
+    },
+    "고재현" : {
+      "call" : "033-248-2056",
+      "course1" : "나노융합스쿨",
+      "email" : "hwangko@hallym.ac.kr",
+      "room" : "공학관 1243"
+    },
+    "고정애" : {
+      "call" : "033-248-1771",
+      "course1" : "사회과학대학",
+      "email" : "koko@hallym.ac.kr",
+      "room" : "사회경영2관 13412"
+    },
+    "고태규" : {
+      "call" : "033-248-1846",
+      "course1" : "경영대학",
+      "course2" : "미래융합스쿨",
+      "email" : "tgko@hallym.ac.kr",
+      "room" : "사회경영2관 13303"
+    },
+    "곽찬영" : {
+      "call" : "033-278-2724",
+      "course1" : "간호대학",
+      "email" : "chanyeong@hallym.ac.kr",
+      "room" : "자연과학관 7412"
+    },
+    "곽창수" : {
+      "call" : "033-248-2256",
+      "course1" : "자연과학대학",
+      "email" : "cskwak@hallym.ac.kr",
+      "room" : "한림스포츠센터 18215"
+    },
+    "권경애" : {
+      "call" : "033-248-2099",
+      "course1" : "미래융합스쿨",
+      "email" : "Kwonka@hallym.ac.kr",
+      "room" : "자연과학관 7604"
+    },
+    "권명순" : {
+      "call" : "033-248-2719",
+      "course1" : "간호대학",
+      "email" : "kwon1314@hallym.ac.kr",
+      "room" : "자연과학관 7410"
+    },
+    "권재웅" : {
+      "call" : "033-248-1936",
+      "course1" : "미디어스쿨",
+      "course2" : "미래융합스쿨",
+      "email" : "kwonjw@hallym.ac.kr",
+      "room" : "사회·경영2관 13414"
+    },
+    "권혁일" : {
+      "call" : "033-248-2584",
+      "course1" : "의과대학",
+      "email" : "hykwon@hallym.ac.kr",
+      "room" : "의학관 3409"
+    },
+    "권형주" : {
+      "call" : "033-248-2635",
+      "course1" : "의과대학",
+      "email" : "hjookwon@hallym.ac.kr",
+      "room" : "의학관 3513"
+    },
+    "김경원" : {
+      "call" : "033-248-2091",
+      "course1" : "자연과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "kwkim@hallym.ac.kr",
+      "room" : "생명과학관 8317"
+    },
+    "김경태" : {
+      "call" : "033-248-1962",
+      "course1" : "사회과학대학",
+      "email" : "ktaekim@hallym.ac.kr",
+      "room" : "사회·경영2관 13404"
+    },
+    "김경희" : {
+      "call" : "033-248-1916",
+      "course1" : "미디어스쿨",
+      "email" : "khkim@hallym.ac.kr",
+      "room" : "사회·경영2관 13407"
+    },
+    "김기순" : {
+      "call" : "033-248-1577",
+      "course1" : "인문대학",
+      "email" : "kskim1@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2504"
+    },
+    "김도희" : {
+      "call" : "033-248-1866",
+      "course1" : "경영대학",
+      "course2" : "미래융합스쿨",
+      "email" : "dhkim12@hallym.ac.kr",
+      "room" : "사회경영1관 10307"
+    },
+    "김동진" : {
+      "call" : "033-248-2154",
+      "course1" : "자연과학대학",
+      "email" : "dongjin@hallym.ac.kr",
+      "room" : "생명과학관 8503"
+    },
+    "김동현" : {
+      "call" : "033-248-2660",
+      "course1" : "의과대학",
+      "course2" : "데이터과학융합스쿨",
+      "email" : "dhkims@hallym.ac.kr",
+      "room" : "의학관 3510"
+    },
+    "김동회" : {
+      "call" : "033-248-2332",
+      "course1" : "소프트웨어융합대학",
+      "email" : "kdh@hallym.ac.kr",
+      "room" : "공학관 A1203"
+    },
+    "김명준" : {
+      "call" : "033-248-1513",
+      "course1" : "미래융합스쿨",
+      "course2" : "인문대학",
+      "email" : "oldpoetry@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2609"
+    },
+    "김미영" : {
+      "call" : "033-248-1746",
+      "course1" : "사회과학대학",
+      "email" : "myk@hallym.ac.kr",
+      "room" : "사회·경영1관 10308"
+    },
+    "김민주" : {
+      "call" : "033-248-2523",
+      "course1" : "의과대학",
+      "email" : "zolim@hallym.ac.kr",
+      "room" : "의학관 3316"
+    },
+    "김민호" : {
+      "call" : "033-248-1595",
+      "course1" : "인문대학",
+      "email" : "kmh@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2532"
+    },
+    "김백섭" : {
+      "call" : "033-248-2313",
+      "course1" : "소프트웨어융합대학",
+      "email" : "bskim@hallym.ac.kr",
+      "room" : "공학관 A1201"
+    },
+    "김번" : {
+      "call" : "033-248-1536",
+      "course1" : "인문대학",
+      "email" : "bkim@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2625"
+    },
+    "김병정" : {
+      "call" : "033-248-2356",
+      "course1" : "소프트웨어융합대학",
+      "course2" : "데이터과학융합스쿨",
+      "email" : "kevin@hallym.ac.kr",
+      "room" : "공학관 A1203"
+    },
+    "김봉수" : {
+      "call" : "033-248-2093",
+      "course1" : "미래융합스쿨",
+      "course2" : "자연과학대학",
+      "email" : "bkim79@hallym.ac.kr",
+      "room" : "생명과학관 8309"
+    },
+    "김상옥" : {
+      "call" : "033-248-2013",
+      "course1" : "데이터과학융합스쿨",
+      "email" : "sokim@hallym.ac.kr",
+      "room" : "자연과학관 7510"
+    },
+    "김상철" : {
+      "call" : "033-248-2077",
+      "course1" : "자연과학대학",
+      "email" : "sckim@hallym.ac.kr",
+      "room" : "공학관 1349"
+    },
+    "김상훈" : {
+      "call" : "033-248-1957",
+      "course1" : "사회과학대학",
+      "email" : "shkimzpo@hallym.ac.kr",
+      "room" : "사회.경영2관 13409"
+    },
+    "김선정" : {
+      "call" : "033-248-2323",
+      "course1" : "글로벌융합대학",
+      "course2" : "소프트웨어융합대학",
+      "course3" : "미래융합스쿨",
+      "email" : "sunkim@hallym.ac.kr",
+      "room" : "공학관 1215"
+    },
+    "김성진" : {
+      "course1" : "인문대학",
+      "email" : "sjkphil@hallym.ac.kr"
+    },
+    "김성찬" : {
+      "call" : "033-248-2545",
+      "course1" : "의과대학",
+      "email" : "biokim@hallym.ac.kr",
+      "room" : "의학관 3417"
+    },
+    "김수희" : {
+      "call" : "033-248-2718",
+      "course1" : "간호대학",
+      "email" : "shkim8312@hallym.ac.kr",
+      "room" : "자연과학관 7411"
+    },
+    "김순희" : {
+      "call" : "033-248-2509",
+      "course1" : "미래융합스쿨",
+      "email" : "shkim@hallym.ac.kr",
+      "room" : "한림중개의과학연구원 415"
+    },
+    "김승도" : {
+      "call" : "033-248-2153",
+      "course1" : "자연과학대학",
+      "email" : "sdkim@hallym.ac.kr",
+      "room" : "생명과학관 8505"
+    },
+    "김승래" : {
+      "call" : "033-248-1822",
+      "course1" : "사회과학대학",
+      "email" : "srkim@hallym.ac.kr",
+      "room" : "사회.경영관 10510"
+    },
+    "김승찬" : {
+      "call" : "033-248-1926",
+      "course1" : "글로벌융합대학",
+      "course2" : "미래융합스쿨",
+      "email" : "dalek@hallym.ac.kr",
+      "room" : "산학협력관 22204"
+    },
+    "김신동" : {
+      "call" : "033-248-1912",
+      "course1" : "미디어스쿨",
+      "email" : "kimsd@hallym.ac.kr",
+      "room" : "사회·경영1관 10202"
+    },
+    "김신정" : {
+      "call" : "033-248-2721",
+      "course1" : "간호대학",
+      "email" : "ksj@hallym.ac.kr",
+      "room" : "자연과학관 7413"
+    },
+    "김아람" : {
+      "call" : "033-248-1575",
+      "course1" : "인문대학",
+      "email" : "aramkim@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2503"
+    },
+    "김여진" : {
+      "call" : "033-248-1776",
+      "course1" : "사회과학대학",
+      "email" : "k96jin@hallym.ac.kr",
+      "room" : "사회경영1관 10429"
+    },
+    "김영동" : {
+      "call" : "033-248-2095",
+      "course1" : "자연과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "ydkim@hallym.ac.kr",
+      "room" : "생명과학관 8310"
+    },
+    "김영명" : {
+      "call" : "033-248-1781",
+      "course1" : "사회과학대학",
+      "email" : "ymkim@hallym.ac.kr",
+      "room" : "사회·경영1관 10205"
+    },
+    "김영범" : {
+      "call" : "033-248-3249",
+      "course1" : "사회과학대학",
+      "email" : "twoponej@gmail.com",
+      "room" : "국제회의관 15308"
+    },
+    "김영화" : {
+      "call" : "033-248-1530",
+      "course1" : "인문대학",
+      "email" : "youwkim@hallym.ac.kr",
+      "room" : "대학본부별관 5201 (명예교수실)"
+    },
+    "김용선" : {
+      "call" : "031-380-1987",
+      "course1" : "의과대학",
+      "email" : "yskim@hallym.ac.kr",
+      "room" : "의학관 3516"
+    },
+    "김용수" : {
+      "call" : "033-248-1538",
+      "course1" : "미래융합스쿨",
+      "course2" : "인문대학",
+      "email" : "yongsookim@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2613"
+    },
+    "김원근" : {
+      "call" : "033-248-2632",
+      "course1" : "의과대학",
+      "email" : "wkkim1061@hallym.ac.kr",
+      "room" : "의학관 3512"
+    },
+    "김유섭" : {
+      "call" : "033-248-2324",
+      "course1" : "글로벌융합대학",
+      "course2" : "소프트웨어융합대학",
+      "email" : "yskim01@hallym.ac.kr",
+      "room" : "공학관 A1306"
+    },
+    "김윤원" : {
+      "call" : "033-248-2633",
+      "course1" : "의과대학",
+      "email" : "ywkim@hallym.ac.kr",
+      "room" : "의학관 3514"
+    },
+    "김윤태" : {
+      "call" : "033-248-2035",
+      "course1" : "데이터과학융합스쿨",
+      "email" : "ytkim@hallym.ac.kr",
+      "room" : "자연과학관 7506"
+    },
+    "김은정" : {
+      "call" : "033-248-2725",
+      "course1" : "간호대학",
+      "email" : "ejerkim@hallym.ac.kr",
+      "room" : "자연과학관 7306"
+    },
+    "김은주" : {
+      "call" : "033-248-2325",
+      "course1" : "소프트웨어융합대학",
+      "email" : "ejkim628@hallym.ac.kr",
+      "room" : "공학관 A1303"
+    },
+    "김의직" : {
+      "call" : "033-248-2333",
+      "course1" : "소프트웨어융합대학",
+      "email" : "ejkim32@hallym.ac.kr",
+      "room" : "공학관 1203"
+    },
+    "김익태" : {
+      "call" : "033-248-1894",
+      "course1" : "미래융합스쿨",
+      "course2" : "글로벌융합대학",
+      "email" : "kimit63@hallym.ac.kr",
+      "room" : "도헌글로벌스쿨 23219"
+    },
+    "김인규" : {
+      "call" : "033-248-1817",
+      "course1" : "사회과학대학",
+      "email" : "igkim@hallym.ac.kr",
+      "room" : "사회.경영1관 10533"
+    },
+    "김인영" : {
+      "call" : "033-248-1785",
+      "course1" : "미래융합스쿨",
+      "course2" : "사회과학대학",
+      "email" : "iykim@hallym.ac.kr",
+      "room" : "사회·경영1관 10224"
+    },
+    "김재봉" : {
+      "call" : "033-248-2544",
+      "course1" : "의과대학",
+      "email" : "jbkim@hallym.ac.kr",
+      "room" : "의학관 3418"
+    },
+    "김재한" : {
+      "call" : "033-248-1782",
+      "course1" : "사회과학대학",
+      "email" : "chkim@hallym.ac.kr",
+      "room" : "사회·경영1관 10204"
+    },
+    "김점근" : {
+      "call" : "033-248-2343",
+      "course1" : "소프트웨어융합대학",
+      "email" : "jkim@hallym.ac.kr",
+      "room" : "공학관 1342"
+    },
+    "김정원" : {
+      "call" : "033-248-2156",
+      "course1" : "자연과학대학",
+      "email" : "jwk@hallym.ac.kr",
+      "room" : "생명과학관 8508"
+    },
+    "김종대" : {
+      "call" : "033-248-2320",
+      "course1" : "소프트웨어융합대학",
+      "email" : "kimjd@hallym.ac.kr",
+      "room" : "공학관 1207"
+    },
+    "김지은" : {
+      "call" : "033-248-2522",
+      "course1" : "의과대학",
+      "email" : "jieunkim@hallym.ac.kr",
+      "room" : "의학관 3318"
+    },
+    "김지현" : {
+      "call" : "033-248-1852",
+      "course1" : "경영대학",
+      "email" : "jhyunkim@hallym.ac.kr",
+      "room" : "사회·경영1관 10403"
+    },
+    "김진" : {
+      "call" : "033-248-2318",
+      "course1" : "소프트웨어융합대학",
+      "email" : "jinkim@hallym.ac.kr",
+      "room" : "공학관 A1301"
+    },
+    "김진숙" : {
+      "call" : "033-248-2213",
+      "course1" : "자연과학대학",
+      "email" : "jskim@hallym.ac.kr",
+      "room" : "생명과학관 8602"
+    },
+    "김찬" : {
+      "course1" : "사회과학대학",
+      "email" : "Kimc4602@naver.com",
+      "room" : "사회·경영1관 10427"
+    },
+    "김춘길" : {
+      "call" : "033-248-2714",
+      "course1" : "간호대학",
+      "email" : "kimcg@hallym.ac.kr",
+      "room" : "자연과학관 7404"
+    },
+    "김태규" : {
+      "call" : "033-248-1857",
+      "course1" : "경영대학",
+      "email" : "tkim@hallym.ac.kr",
+      "room" : "사회·경영1관 10432"
+    },
+    "김태선" : {
+      "call" : "033-248-2078",
+      "course1" : "자연과학대학",
+      "email" : "tskim@hallym.ac.kr",
+      "room" : "공학관 1357"
+    },
+    "김태운" : {
+      "call" : "033-248-2335",
+      "course1" : "소프트웨어융합대학",
+      "email" : "taewoon@hallym.ac.kr",
+      "room" : "공학관 1344"
+    },
+    "김헌기" : {
+      "call" : "033-248-2155",
+      "course1" : "미래융합스쿨",
+      "course2" : "자연과학대학",
+      "email" : "heonki@hallym.ac.kr",
+      "room" : "생명과학관 8504"
+    },
+    "김현식" : {
+      "call" : "033-248-1840",
+      "course1" : "미래융합스쿨",
+      "course2" : "경영대학",
+      "email" : "hshs@hallym.ac.kr",
+      "room" : "사회경영1관 10306"
+    },
+    "김현용" : {
+      "course1" : "사회과학대학",
+      "none" : "none"
+    },
+    "김현정" : {
+      "call" : "033-248-2712",
+      "course1" : "간호대학",
+      "email" : "hjkim97@hallym.ac.kr",
+      "room" : "자연과학관 7408"
+    },
+    "김효원" : {
+      "call" : "033-248-1530",
+      "course1" : "인문대학",
+      "email" : "hwkim@hallym.ac.kr",
+      "room" : "대학본부별관 5201 (명예교수실)"
+    },
+    "나병균" : {
+      "course1" : "사회과학대학",
+      "email" : "bkna@hallym.ac.kr",
+      "room" : "대학본부별관 5201"
+    },
+    "남경아" : {
+      "call" : "033-248-2717",
+      "course1" : "간호대학",
+      "email" : "namka@hallym.ac.kr",
+      "room" : "자연과학관 7409"
+    },
+    "남기봉" : {
+      "call" : "033-248-2051",
+      "course1" : "나노융합스쿨",
+      "email" : "kbnahm@hallym.ac.kr",
+      "room" : "공학관 1240"
+    },
+    "남기학" : {
+      "call" : "033-248-1613",
+      "course1" : "인문대학",
+      "email" : "khnam@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2405"
+    },
+    "노기영" : {
+      "call" : "033-248-1917",
+      "course1" : "미디어스쿨",
+      "course2" : "미래융합스쿨",
+      "email" : "gnoh@hallym.ac.kr",
+      "room" : "사회·경영1관 10207"
+    },
+    "노석재" : {
+      "call" : "033-248-1816",
+      "course1" : "사회과학대학",
+      "email" : "sjnoh@hallym.ac.kr",
+      "room" : "사회경영1관 10534"
+    },
+    "노원종" : {
+      "call" : "033-248-2337",
+      "course1" : "소프트웨어융합대학",
+      "email" : "wonjong.noh@hallym.ac.kr",
+      "room" : "공학관 1346"
+    },
+    "노혁진" : {
+      "call" : "033-248-1571",
+      "course1" : "인문대학",
+      "email" : "hjroh@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2505"
+    },
+    "류세민" : {
+      "call" : "033-248-2336",
+      "course1" : "글로벌융합대학",
+      "course2" : "미래융합스쿨",
+      "email" : "sr@hallym.ac.kr",
+      "room" : "산학협력관 22209"
+    },
+    "류재형" : {
+      "call" : "033-248-1933",
+      "course1" : "미디어스쿨",
+      "email" : "intherain@hallym.ac.kr",
+      "room" : "사회·경영1관 10209"
+    },
+    "문규" : {
+      "call" : "033-248-2341",
+      "course1" : "소프트웨어융합대학",
+      "email" : "gmoon@hallym.ac.kr",
+      "room" : "공학관 1340"
+    },
+    "문성훈" : {
+      "call" : "033-248-1845",
+      "course1" : "경영대학",
+      "course2" : "미래융합스쿨",
+      "email" : "mooncta@hallym.ac.kr",
+      "room" : "사회경영1관 10332"
+    },
+    "민성환" : {
+      "call" : "033-248-1841",
+      "course1" : "경영대학",
+      "email" : "shmin@hallym.ac.kr",
+      "room" : "사회경영2관 13207"
+    },
+    "박경호" : {
+      "call" : "033-248-2131",
+      "course1" : "자연과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "Kyungho.Park@hallym.ac.kr",
+      "room" : "생명과학관 8515"
+    },
+    "박경희" : {
+      "course1" : "데이터과학융합스쿨",
+      "email" : "beloved@hallym.ac.kr"
+    },
+    "박노섭" : {
+      "call" : "033-248-1964",
+      "course1" : "글로벌융합대학",
+      "email" : "rspark@hallym.ac.kr",
+      "room" : "도헌글로벌스쿨 23217"
+    },
+    "박동진" : {
+      "call" : "033-248-1929",
+      "course1" : "사회과학대학",
+      "email" : "dongjinpark@hallym.ac.kr",
+      "room" : "사회·경영1관 10205"
+    },
+    "박두재" : {
+      "call" : "033-248-2055",
+      "course1" : "나노융합스쿨",
+      "email" : "doojeapark.@hallym.ac.kr",
+      "room" : "공학관 1254"
+    },
+    "박민" : {
+      "call" : "033-248-2363",
+      "course1" : "미래융합스쿨",
+      "email" : "minpark@hallym.ac.kr",
+      "room" : "자연과학관 7517"
+    },
+    "박섭형" : {
+      "call" : "033-248-2342",
+      "course1" : "소프트웨어융합대학",
+      "course2" : "데이터과학융합스쿨",
+      "email" : "spark@hallym.ac.kr",
+      "room" : "공학관 1343"
+    },
+    "박소현" : {
+      "call" : "033-248-2134",
+      "course1" : "자연과학대학",
+      "email" : "sopark@hallym.ac.kr",
+      "room" : "생명과학관 8519"
+    },
+    "박슬기" : {
+      "call" : "033-248-1514",
+      "course1" : "인문대학",
+      "email" : "seulki.park@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2610"
+    },
+    "박승현" : {
+      "call" : "033-248-1918",
+      "course1" : "미디어스쿨",
+      "email" : "parksh@hallym.ac.kr",
+      "room" : "사회·경영1관 10428"
+    },
+    "박윤정" : {
+      "call" : "033-248-1855",
+      "course1" : "경영대학",
+      "email" : "yjpark@hallym.ac.kr",
+      "room" : "사회·경영1관 10402"
+    },
+    "박은재" : {
+      "call" : "033-248-1577",
+      "course1" : "인문대학",
+      "email" : "eunjae.park@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2504"
+    },
+    "박재봉" : {
+      "call" : "033-248-2542",
+      "course1" : "의과대학",
+      "email" : "jbpark@hallym.ac.kr",
+      "room" : "의학관 3419"
+    },
+    "박재훈" : {
+      "call" : "033-248-2357",
+      "course1" : "소프트웨어융합대학",
+      "email" : "jcypark@hallym.ac.kr",
+      "room" : "공학관 1238"
+    },
+    "박종국" : {
+      "call" : "033-248-2114",
+      "course1" : "자연과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "jkp555@hallym.ac.kr",
+      "room" : "생명과학관 8404"
+    },
+    "박준식" : {
+      "call" : "033-248-1743",
+      "course1" : "사회과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "jsp3430@gmail.com",
+      "room" : "사회·경영 1관 10223"
+    },
+    "박지완" : {
+      "call" : "033-248-2691",
+      "course1" : "의과대학",
+      "email" : "jwpark@hallym.ac.kr",
+      "room" : "자연과학관 7313"
+    },
+    "박진서" : {
+      "call" : "033-248-2116",
+      "course1" : "미래융합스쿨",
+      "course2" : "자연과학대학",
+      "email" : "jinpark@hallym.ac.kr",
+      "room" : "생명과학관 8411"
+    },
+    "박진용" : {
+      "call" : "033-248-2152",
+      "course1" : "자연과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "jypark@hallym.ac.kr",
+      "room" : "생명과학관 8502"
+    },
+    "박찬영" : {
+      "call" : "033-248-2321",
+      "course1" : "소프트웨어융합대학",
+      "email" : "ejkim32@hallym.ac.kr",
+      "room" : "공학관 1239"
+    },
+    "박찬흠" : {
+      "call" : "033-248-2509",
+      "course1" : "미래융합스쿨",
+      "email" : "hlpch@hallym.ac.kr",
+      "room" : "한림중개의과학연구원 416"
+    },
+    "박현숙" : {
+      "call" : "033-248-2036",
+      "course1" : "미래융합스쿨",
+      "course2" : "데이터과학융합스쿨",
+      "email" : "hspark@hallym.ac.kr",
+      "room" : "자연과학관 7527-1"
+    },
+    "박혜경" : {
+      "call" : "033-248-1633",
+      "course1" : "인문대학",
+      "email" : "hkpark1@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2409"
+    },
+    "방기석" : {
+      "call" : "033-248-2774",
+      "course1" : "데이터과학융합스쿨",
+      "email" : "mysaver@hallym.ac.kr",
+      "room" : "대학본부별관 5410"
+    },
+    "방성근" : {
+      "call" : "033-248-2349",
+      "course1" : "소프트웨어융합대학",
+      "email" : "baang@hallym.ac.kr",
+      "room" : "공학관 A1206"
+    },
+    "배무호" : {
+      "call" : "033-248-2350",
+      "course1" : "소프트웨어융합대학",
+      "email" : "mhbae@hallym.ac.kr",
+      "room" : "공학관 1339"
+    },
+    "배소영" : {
+      "call" : "033-248-2214",
+      "course1" : "자연과학대학",
+      "email" : "spae@hallym.ac.kr",
+      "room" : "생명과학관 8605"
+    },
+    "백광기" : {
+      "course1" : "경영대학",
+      "email" : "ggbaek@hallym.ac.kr"
+    },
+    "변용환" : {
+      "call" : "033-248-1832",
+      "course1" : "경영대학",
+      "email" : "yhbyun@hallym.ac.kr",
+      "room" : "사회경영1관 10301"
+    },
+    "변희섭" : {
+      "call" : "033-248-1856",
+      "course1" : "경영대학",
+      "email" : "heesbyun@hallym.ac.kr",
+      "room" : "사회·경영1관 10404"
+    },
+    "사이토 아케미" : {
+      "course1" : "미래융합스쿨",
+      "course2" : "인문대학",
+      "email" : "saito@hallym.ac.kr",
+      "room" : "대학본부별관 명예교수실"
+    },
+    "서동기" : {
+      "call" : "033-248-1727",
+      "course1" : "데이터과학융합스쿨",
+      "course2" : "사회과학대학",
+      "email" : "wmotive@hallym.ac.kr",
+      "room" : "사회경영1관 10537"
+    },
+    "서상원" : {
+      "call" : "033-248-2508",
+      "course1" : "의과대학",
+      "email" : "swsuh@hallym.ac.kr",
+      "room" : "의학관 3610"
+    },
+    "서인해" : {
+      "call" : "033-248-1767",
+      "course1" : "사회과학대학",
+      "email" : "iseo@hallym.ac.kr",
+      "room" : "사회·경영2관 13206"
+    },
+    "서정완" : {
+      "call" : "033-248-1611",
+      "course1" : "인문대학",
+      "email" : "jsuh@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2404"
+    },
+    "서준교" : {
+      "call" : "033-248-2692",
+      "course1" : "의과대학",
+      "email" : "jgsuh@hallym.ac.kr",
+      "room" : "자연과학관 7310"
+    },
+    "서홍원" : {
+      "call" : "033-248-2614",
+      "course1" : "미래융합스쿨",
+      "course2" : "의과대학",
+      "email" : "hwsuh@hallym.ac.kr",
+      "room" : "의학과 3412"
+    },
+    "석재은" : {
+      "call" : "033-248-1768",
+      "course1" : "사회과학대학",
+      "email" : "seokje@hallym.ac.kr",
+      "room" : "사회·경영1관 10405"
+    },
+    "성건용" : {
+      "call" : "033-248-2361",
+      "course1" : "미래융합스쿨",
+      "email" : "gysung@hallym.ac.kr",
+      "room" : "자연과학관 7518"
+    },
+    "성경륭" : {
+      "call" : "033-248-1742",
+      "course1" : "사회과학대학",
+      "email" : "krseong@hallym.ac.kr",
+      "room" : "사회·경영 1관 10201"
+    },
+    "성시일" : {
+      "call" : "033-248-1593",
+      "course1" : "인문대학",
+      "email" : "siil@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2526"
+    },
+    "손대순" : {
+      "call" : "033-248-2037",
+      "course1" : "데이터과학융합스쿨",
+      "email" : "biostat@hallym.ac.kr",
+      "room" : "자연과학관 7526-2"
+    },
+    "손병홍" : {
+      "course1" : "인문대학",
+      "email" : "bhson@hallym.ac.kr",
+      "room" : "대학본부별관 명예교수실"
+    },
+    "손영석" : {
+      "call" : "033-248-1915",
+      "course1" : "사회과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "ysgson@hallym.ac.kr",
+      "room" : "사회·경영1관 10408"
+    },
+    "손정인" : {
+      "call" : "033-248-2073",
+      "course1" : "자연과학대학",
+      "email" : "jisohn@hallym.ac.kr",
+      "room" : "공학관 1347"
+    },
+    "송동근" : {
+      "call" : "033-248-2613",
+      "course1" : "의과대학",
+      "email" : "dksong@hallym.ac.kr",
+      "room" : "의학관 3411"
+    },
+    "송성호" : {
+      "call" : "033-248-2346",
+      "course1" : "소프트웨어융합대학",
+      "email" : "ssh@hallym.ac.kr",
+      "room" : "공학관 A1302"
+    },
+    "송인재" : {
+      "call" : "033-248-2906",
+      "course1" : "미래융합스쿨",
+      "email" : "tanksong@hallym.ac.kr",
+      "room" : "대학본부 인문1관 2517-1"
+    },
+    "송창근" : {
+      "call" : "033-248-2317",
+      "course1" : "소프트웨어융합대학",
+      "email" : "cgsong@hallym.ac.kr",
+      "room" : "공학관 1235"
+    },
+    "송현주" : {
+      "call" : "033-248-1924",
+      "course1" : "미디어스쿨",
+      "email" : "sometime119@hallym.ac.kr",
+      "room" : "퇴계관 16409"
+    },
+    "송혜정" : {
+      "call" : "033-248-2331",
+      "course1" : "소프트웨어융합대학",
+      "email" : "hjsong@hallym.ac.kr",
+      "room" : "공학관 1204"
+    },
+    "송홍지" : {
+      "call" : "031-380-1778",
+      "course1" : "데이터과학융합스쿨",
+      "email" : "hongji@hallym.ac.kr"
+    },
+    "신경아" : {
+      "call" : "033-248-1745",
+      "course1" : "사회과학대학",
+      "email" : "shina@hallym.ac.kr",
+      "room" : "사회·경영 1관 10327"
+    },
+    "신동수" : {
+      "call" : "033-248-2723",
+      "course1" : "간호대학",
+      "email" : "shindong@hallym.ac.kr",
+      "room" : "자연과학관 7414"
+    },
+    "신동현" : {
+      "call" : "033-248-1966",
+      "course1" : "사회과학대학",
+      "email" : "dshin@hallym.ac.kr",
+      "room" : "사회·경영2관 13507"
+    },
+    "신미영" : {
+      "call" : "033-248-2328",
+      "course1" : "소프트웨어융합대학",
+      "email" : "ireong@hallym.ac.kr",
+      "room" : "공학관 A1303"
+    },
+    "신서인" : {
+      "call" : "033-248-1517",
+      "course1" : "인문대학",
+      "course2" : "산학협력특성화대학",
+      "email" : "dryice@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2605"
+    },
+    "신유경" : {
+      "call" : "033-248-2486",
+      "course1" : "글로벌융합대학",
+      "email" : "yshin@hallym.ac.kr",
+      "room" : "도헌글로벌스쿨 23215"
+    },
+    "신형철" : {
+      "call" : "033-248-2585",
+      "course1" : "의과대학",
+      "email" : "hcshin@hallym.ac.kr",
+      "room" : "의학관 3408-1"
+    },
+    "심보경" : {
+      "call" : "033-248-2773",
+      "course1" : "미래융합스쿨",
+      "email" : "bkshim@hallym.ac.kr",
+      "room" : "기초교육관 16411"
+    },
+    "심송용" : {
+      "call" : "033-248-2034",
+      "course1" : "데이터과학융합스쿨",
+      "email" : "sysim@hallym.ac.kr",
+      "room" : "자연과학관 7507"
+    },
+    "심재훈" : {
+      "call" : "033-248-2137",
+      "course1" : "자연과학대학",
+      "email" : "jhshim@hallym.ac.kr",
+      "room" : "생명과학관 8522-1"
+    },
+    "심훈" : {
+      "call" : "033-248-1922",
+      "course1" : "미디어스쿨",
+      "email" : "shimh@hallym.ac.kr",
+      "room" : "사회·경영1관 10328"
+    },
+    "안동규" : {
+      "call" : "033-248-1853",
+      "course1" : "경영대학",
+      "email" : "dkahn@hallym.ac.kr",
+      "room" : "사회·경영1관 10401"
+    },
+    "안재목" : {
+      "call" : "033-248-2347",
+      "course1" : "소프트웨어융합대학",
+      "email" : "ajm@hallym.ac.kr",
+      "room" : "공학관 1315"
+    },
+    "안정민" : {
+      "call" : "033-248-1955",
+      "course1" : "글로벌융합대학",
+      "email" : "jja@hallym.ac.kr",
+      "room" : "도헌글로벌스쿨 23213"
+    },
+    "양기웅" : {
+      "call" : "033-248-1784",
+      "course1" : "미래융합스쿨",
+      "course2" : "사회과학대학",
+      "email" : "kwyang@hallym.ac.kr",
+      "room" : "사회·경영1관 10226"
+    },
+    "양은샘" : {
+      "call" : "033-248-2326",
+      "course1" : "소프트웨어융합대학",
+      "email" : "yanges@hallym.ac.kr",
+      "room" : "공학관 1204"
+    },
+    "양은석" : {
+      "call" : "033-248-2253",
+      "course1" : "미래융합스쿨",
+      "course2" : "자연과학대학",
+      "email" : "esyang@hallym.ac.kr",
+      "room" : "한림스포츠센터 18212"
+    },
+    "양정수" : {
+      "call" : "033-248-2257",
+      "course1" : "자연과학대학",
+      "email" : "jsyang@hallym.ac.kr",
+      "room" : "한림스포츠센터 18214"
+    },
+    "양태근" : {
+      "call" : "033-248-1596",
+      "course1" : "인문대학",
+      "email" : "ytk@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2531"
+    },
+    "엄한진" : {
+      "call" : "033-248-1749",
+      "course1" : "사회과학대학",
+      "email" : "eom3597@hallym.ac.kr",
+      "room" : "사회·경영 2관 13209"
+    },
+    "염정섭" : {
+      "call" : "033-248-1579",
+      "course1" : "인문대학",
+      "email" : "yeobul@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2533-2"
+    },
+    "염철" : {
+      "call" : "033-248-1597",
+      "course1" : "인문대학",
+      "email" : "lianzhe@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2528"
+    },
+    "오권익" : {
+      "call" : "033-248-2564",
+      "course1" : "의과대학",
+      "email" : "kwonik@hallym.ac.kr",
+      "room" : "의학관 3307"
+    },
+    "오연재" : {
+      "call" : "033-248-2726",
+      "course1" : "간호대학",
+      "email" : "okim1108@hallym.ac.kr",
+      "room" : "자연과학관 7307"
+    },
+    "오진탁" : {
+      "call" : "033-248-1554",
+      "course1" : "인문대학",
+      "email" : "jtoh@hallym.ac.kr",
+      "room" : "대학본부 인문1관 2512"
+    },
+    "오춘택" : {
+      "call" : "033-248-2936",
+      "course1" : "인문대학",
+      "email" : "ctoh@hallym.ac.kr",
+      "room" : "대학본부별관 5201 (명예교수실)"
+    },
+    "오현열" : {
+      "course1" : "인문대학",
+      "email" : "oh2576548@hanmail.net"
+    },
+    "원동옥" : {
+      "call" : "033-248-3582",
+      "course1" : "글로벌융합대학",
+      "email" : "dongok.won@hallym.ac.kr",
+      "room" : "도헌글로벌스쿨 23218"
+    },
+    "원혜경" : {
+      "call" : "033-248-2053",
+      "course1" : "나노융합스쿨",
+      "email" : "hkwon@hallym.ac.kr",
+      "room" : "공학관 1244"
+    },
+    "유승금" : {
+      "call" : "033-248-2977",
+      "course1" : "미래융합스쿨",
+      "email" : "ysgeum@hallym.ac.kr",
+      "room" : "국제관 14619"
+    },
+    "유승남" : {
+      "call" : "033-248-1631",
+      "course1" : "인문대학",
+      "email" : "snyoo@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2406"
+    },
+    "유신환" : {
+      "call" : "033-248-2268",
+      "course1" : "자연과학대학",
+      "email" : "shyoo@hallym.ac.kr",
+      "room" : "한림스포츠센터 18217"
+    },
+    "유팔무" : {
+      "course1" : "사회과학대학",
+      "email" : "pmyou@hallym.ac.kr",
+      "room" : "대학본부별관 명예교수실"
+    },
+    "유한욱" : {
+      "call" : "033-248-1815",
+      "course1" : "사회과학대학",
+      "email" : "hanwook67@hallym.ac.kr",
+      "room" : "사회.경영1관 10506"
+    },
+    "육청민" : {
+      "call" : "033-248-1533",
+      "course1" : "인문대학",
+      "email" : "cmyook@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2626"
+    },
+    "윤은주" : {
+      "call" : "033-248-3235",
+      "course1" : "글로벌융합대학",
+      "email" : "ejyoon517@hallym.ac.kr",
+      "room" : "국제관 14618"
+    },
+    "윤지혜" : {
+      "call" : "033-248-2224",
+      "course1" : "자연과학대학",
+      "email" : "j.yoon@hallym.ac.kr",
+      "room" : "생명과학관 8605-1"
+    },
+    "윤지희" : {
+      "call" : "033-248-2316",
+      "course1" : "소프트웨어융합대학",
+      "email" : "jhyoon@hallym.ac.kr",
+      "room" : "공학관 A1307"
+    },
+    "윤태일" : {
+      "call" : "033-248-1923",
+      "course1" : "미래융합스쿨",
+      "course2" : "사회과학대학",
+      "email" : "icarus44@hallym.ac.kr",
+      "room" : "사회·경영2관 13203"
+    },
+    "윤현숙" : {
+      "call" : "033-248-1765",
+      "course1" : "사회과학대학",
+      "email" : "hyyoon@hallym.ac.kr",
+      "room" : "사회·경영1관 10430"
+    },
+    "윤효영" : {
+      "call" : "033-248-1953",
+      "course1" : "사회과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "tree5454@hallym.ac.kr",
+      "room" : "사회.경영2관 13508"
+    },
+    "이건호" : {
+      "call" : "033-248-1961",
+      "course1" : "사회과학대학",
+      "email" : "licorne@hallym.ac.kr",
+      "room" : "사회·경영2관 13408"
+    },
+    "이견직" : {
+      "call" : "033-248-1838",
+      "course1" : "경영대학",
+      "email" : "leeway@hallym.ac.kr",
+      "room" : "사회경영1관 10304"
+    },
+    "이경구" : {
+      "call" : "033-248-2919",
+      "course1" : "미래융합스쿨",
+      "email" : "neost35@hallym.ac.kr",
+      "room" : "본관 2604"
+    },
+    "이근욱" : {
+      "call" : "033-248-2113",
+      "course1" : "미래융합스쿨",
+      "course2" : "자연과학대학",
+      "email" : "keunwook@hallym.ac.kr",
+      "room" : "생명과학관 8411"
+    },
+    "이기원" : {
+      "call" : "033-248-2032",
+      "course1" : "데이터과학융합스쿨",
+      "email" : "kwlee@hallym.ac.kr",
+      "room" : "자연과학관 7504"
+    },
+    "이기홍" : {
+      "call" : "033-248-1746",
+      "course1" : "사회과학대학",
+      "email" : "gihong@gmail.com",
+      "room" : "사회·경영 1관 10308"
+    },
+    "이덕수" : {
+      "call" : "033-248-1858",
+      "course1" : "경영대학",
+      "email" : "duksoo33@hallym.ac.kr",
+      "room" : "사회·경영1관 10505"
+    },
+    "이동영" : {
+      "call" : "033-248-1967",
+      "course1" : "미래융합스쿨",
+      "course2" : "사회과학대학",
+      "email" : "drhee@hallym.ac.kr",
+      "room" : "사회·경영2관 13509"
+    },
+    "이리나" : {
+      "call" : "033-248-1634",
+      "course1" : "인문대학",
+      "email" : "irina1376@naver.com",
+      "room" : "대학본부·인문1관 2407"
+    },
+    "이병기" : {
+      "call" : "033-248-1512",
+      "course1" : "인문대학",
+      "email" : "prefalla@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2607"
+    },
+    "이삼성" : {
+      "call" : "033-248-1786",
+      "course1" : "사회과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "sunglee@hallym.ac.kr",
+      "room" : "사회·경영1관 10227"
+    },
+    "이상규" : {
+      "call" : "033-240-5786",
+      "course1" : "데이터과학융합스쿨",
+      "email" : "skmind@hallym.ac.kr",
+      "room" : "수인빌딩 706"
+    },
+    "이선우" : {
+      "call" : "033-248-2348",
+      "course1" : "소프트웨어융합대학",
+      "email" : "senu@hallym.ac.kr",
+      "room" : "공학관 1341"
+    },
+    "이수정" : {
+      "call" : "033-248-2722",
+      "course1" : "간호대학",
+      "email" : "sujunglee@hallym.ac.kr",
+      "room" : "자연과학관 7305"
+    },
+    "이승은" : {
+      "call" : "033-248-1511",
+      "course1" : "미래융합스쿨",
+      "course2" : "인문대학",
+      "email" : "41588@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2608"
+    },
+    "이승환" : {
+      "call" : "033-248-1937",
+      "course1" : "미디어스쿨",
+      "course2" : "미래융합스쿨",
+      "email" : "internet@hallym.ac.kr",
+      "room" : "사회·경영2관 13410"
+    },
+    "이용업" : {
+      "call" : "033-248-2344",
+      "course1" : "소프트웨어융합대학",
+      "email" : "yulee@hallym.ac.kr",
+      "room" : "공학관 1237"
+    },
+    "이우람" : {
+      "call" : "033-248-2072",
+      "course1" : "미래융합스쿨",
+      "email" : "alchemist@hallym.ac.kr",
+      "room" : "공학관 1348"
+    },
+    "이원철" : {
+      "call" : "033-248-3351",
+      "course1" : "소프트웨어융합대학",
+      "email" : "woncheol@hallym.ac.kr",
+      "room" : "공학관 A1408"
+    },
+    "이윤경" : {
+      "call" : "033-248-2219",
+      "course1" : "자연과학대학",
+      "email" : "ylee@hallym.ac.kr",
+      "room" : "생명과학관 8604"
+    },
+    "이은주" : {
+      "call" : "033-248-2354",
+      "course1" : "소프트웨어융합대학",
+      "email" : "ejlee@hallym.ac.kr",
+      "room" : "공학관 1307"
+    },
+    "이은희" : {
+      "call" : "033-248-2727",
+      "course1" : "간호대학",
+      "email" : "ehlee@hallym.ac.kr",
+      "room" : "자연과학관 7305"
+    },
+    "이인종" : {
+      "course1" : "자연과학대학",
+      "email" : "hclee@hallym.ac.kr",
+      "room" : "대학본부별관 5201"
+    },
+    "이재영" : {
+      "call" : "033-248-2314",
+      "course1" : "소프트웨어융합대학",
+      "email" : "jylee@hallym.ac.kr",
+      "room" : "공학관 A1202"
+    },
+    "이재용" : {
+      "call" : "033-248-2543",
+      "course1" : "의과대학",
+      "email" : "jyolee@hallym.ac.kr",
+      "room" : "의학관 3421"
+    },
+    "이재진" : {
+      "call" : "033-248-2014",
+      "course1" : "데이터과학융합스쿨",
+      "email" : "jjlee@hallym.ac.kr",
+      "room" : "자연과학관 7508"
+    },
+    "이정" : {
+      "call" : "033-248-2334",
+      "course1" : "소프트웨어융합대학",
+      "course2" : "미래융합스쿨",
+      "email" : "airjung@hallym.ac.kr",
+      "room" : "공학관 1303"
+    },
+    "이정근" : {
+      "call" : "033-248-2312",
+      "course1" : "소프트웨어융합대학",
+      "course2" : "미래융합스쿨",
+      "email" : "jeonggun.lee@hallym.ac.kr",
+      "room" : "공학관 1306"
+    },
+    "이정원" : {
+      "call" : "033-248-1730",
+      "course1" : "사회과학대학",
+      "email" : "jwl@hallym.ac.kr",
+      "room" : "사회경영1관 10513"
+    },
+    "이정태" : {
+      "call" : "033-248-2071",
+      "course1" : "자연과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "jtshl@hallym.ac.kr",
+      "room" : "공학관 1345"
+    },
+    "이종석" : {
+      "call" : "033-248-1843",
+      "course1" : "산학협력특성화대학",
+      "course2" : "글로벌융합대학",
+      "email" : "ljs1844@hallym.ac.kr",
+      "room" : "사회·경영1관 10303"
+    },
+    "이종완" : {
+      "call" : "033-248-2054",
+      "course1" : "나노융합스쿨",
+      "email" : "jwlee@hallym.ac.kr",
+      "room" : "공학관 1241"
+    },
+    "이종호" : {
+      "call" : "033-248-2616",
+      "course1" : "의과대학",
+      "email" : "jongholee@hallym.ac.kr",
+      "room" : "의학관 3414"
+    },
+    "이주일" : {
+      "call" : "033-248-1723",
+      "course1" : "사회과학대학",
+      "email" : "jilee@hallym.ac.kr",
+      "room" : "사회경영1관 10504"
+    },
+    "이지연" : {
+      "call" : "033-248-2975",
+      "course1" : "글로벌융합대학",
+      "email" : "J.Lee@hallym.ac.kr",
+      "room" : "국제관 14604"
+    },
+    "이지원" : {
+      "call" : "033-248-1612",
+      "course1" : "인문대학",
+      "email" : "cw2403@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2403"
+    },
+    "이지현" : {
+      "call" : "033-248-1592",
+      "course1" : "인문대학",
+      "email" : "jlee06@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2611"
+    },
+    "이찬" : {
+      "call" : "033-248-1557",
+      "course1" : "인문대학",
+      "email" : "chanlee@hallym.ac.kr",
+      "room" : "대학본부 인문1관 2514"
+    },
+    "이충언" : {
+      "call" : "033-248-1819",
+      "course1" : "사회과학대학",
+      "email" : "chlee@hallym.ac.kr",
+      "room" : "사회.경영1관 10532"
+    },
+    "이충일" : {
+      "course1" : "자연과학대학",
+      "email" : "cilee@hallym.ac.kr"
+    },
+    "이황석" : {
+      "call" : "033-248-1919",
+      "course1" : "미디어스쿨",
+      "email" : "kurzfilm@hallym.ac.kr",
+      "room" : "사회·경영2관 13208"
+    },
+    "임덕환" : {
+      "call" : "033-248-2217",
+      "course1" : "자연과학대학",
+      "email" : "dlim@hallym.ac.kr",
+      "room" : "생명과학관 8601"
+    },
+    "임만섭" : {
+      "call" : "033-248-2511",
+      "course1" : "의과대학",
+      "course2" : "데이터과학융합스쿨",
+      "email" : "ellemes@hallym.ac.kr",
+      "room" : "의학관 3611"
+    },
+    "임선영" : {
+      "call" : "033-248-1729",
+      "course1" : "사회과학대학",
+      "email" : "imsy@hallym.ac.kr",
+      "room" : "사회경영1관 10535"
+    },
+    "임순성" : {
+      "call" : "033-248-2133",
+      "course1" : "자연과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "limss@hallym.ac.kr",
+      "room" : "생명과학관 8510"
+    },
+    "임혜순" : {
+      "call" : "033-248-1530",
+      "course1" : "인문대학",
+      "email" : "hslim@hallym.ac.kr",
+      "room" : "대학본부별관 5201 (명예교수실)"
+    },
+    "장문규" : {
+      "call" : "033-248-2362",
+      "course1" : "나노융합스쿨",
+      "email" : "jangmg@hallym.ac.kr",
+      "room" : "자연과학관 7516"
+    },
+    "장범성" : {
+      "call" : "033-248-1884",
+      "course1" : "글로벌융합대학",
+      "email" : "grandbs@hallym.ac.kr",
+      "room" : "도헌글로벌스쿨 23218"
+    },
+    "장윤식" : {
+      "call" : "033-248-1888",
+      "course1" : "글로벌융합대학",
+      "email" : "jakejang@hallym.ac.kr",
+      "room" : "도헌글로벌스쿨 23220"
+    },
+    "장춘익" : {
+      "call" : "033-248-1553",
+      "course1" : "인문대학",
+      "email" : "cijang@hallym.ac.kr",
+      "room" : "대학본부 인문1관 2513"
+    },
+    "장현숙" : {
+      "call" : "033-248-2218",
+      "course1" : "자연과학대학",
+      "email" : "hsjang@hallym.ac.kr",
+      "room" : "생명과학관 8603-1"
+    },
+    "장희정" : {
+      "call" : "033-248-2720",
+      "course1" : "간호대학",
+      "email" : "hjjang@hallym.ac.kr",
+      "room" : "자연과학관 7406"
+    },
+    "전성호" : {
+      "call" : "033-248-2096",
+      "course1" : "미래융합스쿨",
+      "course2" : "자연과학대학",
+      "email" : "sjeon@hallym.ac.kr",
+      "room" : "생명과학관 8313"
+    },
+    "전종갑" : {
+      "course1" : "자연과학대학",
+      "email" : "jgjun@hallym.ac.kr",
+      "room" : "대학본부별관 5201"
+    },
+    "전진아" : {
+      "call" : "033-248-2220",
+      "course1" : "자연과학대학",
+      "email" : "jajeon@hallym.ac.kr",
+      "room" : "생명과학관 8603-2"
+    },
+    "전진희" : {
+      "call" : "033-248-1868",
+      "course1" : "미래융합스쿨",
+      "course2" : "경영대학",
+      "email" : "jjun@hallym.ac.kr",
+      "room" : "사회경영1관 10225"
+    },
+    "전호성" : {
+      "call" : "033-248-1839",
+      "course1" : "경영대학",
+      "email" : "hosejeon@hallym.ac.kr",
+      "room" : "사회경영1관 10302"
+    },
+    "정금희" : {
+      "call" : "033-248-2713",
+      "course1" : "간호대학",
+      "email" : "ghjeong@hallym.ac.kr",
+      "room" : "자연과학관 7407"
+    },
+    "정동훈" : {
+      "call" : "033-248-2092",
+      "course1" : "자연과학대학",
+      "email" : "dhjeong73@hallym.ac.kr",
+      "room" : "생명과학관 8306"
+    },
+    "정득" : {
+      "call" : "033-248-2487",
+      "course1" : "글로벌융합대학",
+      "email" : "deuk4201@hallym.ac.kr",
+      "room" : "도헌글로벌스쿨 23223"
+    },
+    "정병덕" : {
+      "call" : "033-248-1954",
+      "course1" : "사회과학대학",
+      "email" : "chduck@hallym.ac.kr",
+      "room" : "사회·경영2관 13506"
+    },
+    "정연구" : {
+      "call" : "033-248-1913",
+      "course1" : "미디어스쿨",
+      "email" : "ygcheong@hallym.ac.kr",
+      "room" : "사회·경영1관 10208"
+    },
+    "정용남" : {
+      "call" : "033-248-1956",
+      "course1" : "미래융합스쿨",
+      "course2" : "사회과학대학",
+      "email" : "ynjung@hallym.ac.kr",
+      "room" : "사회·경영2관 13510"
+    },
+    "정용희" : {
+      "course1" : "자연과학대학",
+      "email" : "yhchung@hallym.ac.kr",
+      "room" : "대학본부별관 5201"
+    },
+    "정인철" : {
+      "course1" : "글로벌융합대학",
+      "email" : "incheol.jeong@hallym.ac.kr",
+      "room" : "도헌글로벌스쿨 23214"
+    },
+    "정재동" : {
+      "course1" : "소프트웨어융합대학",
+      "email" : "jodiahn@hallym.ac.kr"
+    },
+    "정혜선" : {
+      "call" : "033-248-1725",
+      "course1" : "미래융합스쿨",
+      "course2" : "사회과학대학",
+      "email" : "heis@hallym.ac.kr",
+      "room" : "사회경영1관 10503"
+    },
+    "조규성" : {
+      "call" : "033-248-1854",
+      "course1" : "경영대학",
+      "email" : "ksjo@hallym.ac.kr",
+      "room" : "사회·경영1관 10433"
+    },
+    "조동훈" : {
+      "call" : "033-248-1821",
+      "course1" : "사회과학대학",
+      "email" : "hooncho@hallym.ac.kr",
+      "room" : "사회.경영1관 10509"
+    },
+    "조병태" : {
+      "course1" : "자연과학대학",
+      "email" : "btcho@hallym.ac.kr"
+    },
+    "조용래" : {
+      "call" : "033-248-1726",
+      "course1" : "사회과학대학",
+      "email" : "yrcho@hallym.ac.kr",
+      "room" : "사회경영1관 10502"
+    },
+    "조윤신" : {
+      "call" : "033-248-2111",
+      "course1" : "자연과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "yooncho33@hallym.ac.kr",
+      "room" : "생명과학관 8407"
+    },
+    "조정래" : {
+      "call" : "033-248-1594",
+      "course1" : "인문대학",
+      "course2" : "미래융합스쿨",
+      "course3" : "산학협력특성화대학",
+      "email" : "jjr@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2529"
+    },
+    "조준용" : {
+      "call" : "033-248-1762",
+      "course1" : "사회과학대학",
+      "email" : "joyhallym@hallym.ac.kr",
+      "room" : "사회·경영2관 13204"
+    },
+    "조지현" : {
+      "call" : "033-248-1952",
+      "course1" : "사회과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "koenigstuhl@hallym.ac.kr",
+      "room" : "사회·경영2관 13504"
+    },
+    "조창익" : {
+      "call" : "033-248-2480",
+      "course1" : "글로벌융합대학",
+      "email" : "cjo@hallym.ac.kr",
+      "room" : "도헌글로벌스쿨 23216"
+    },
+    "조효진" : {
+      "course1" : "소프트웨어융합대학",
+      "email" : "hyojin.jo@hallym.ac.kr",
+      "room" : "공학관 1305"
+    },
+    "주동률" : {
+      "call" : "033-248-1556",
+      "course1" : "인문대학",
+      "email" : "drchoo@hallym.ac.kr",
+      "room" : "대학본부 인문1관 2507"
+    },
+    "주영기" : {
+      "call" : "033-248-1925",
+      "course1" : "미디어스쿨",
+      "email" : "youngj@hallym.ac.kr",
+      "room" : "사회·경영1관 10329"
+    },
+    "주한규" : {
+      "call" : "033-248-2322",
+      "course1" : "소프트웨어융합대학",
+      "email" : "hkjoo@hallym.ac.kr",
+      "room" : "공학관 1233"
+    },
+    "주한나" : {
+      "call" : "033-248-2491",
+      "course1" : "미래융합스쿨",
+      "email" : "hanah.zoo@hallym.ac.kr",
+      "room" : "도헌글로벌스쿨 23212"
+    },
+    "진인기" : {
+      "call" : "033-248-2221",
+      "course1" : "자연과학대학",
+      "email" : "inkijin@hallym.ac.kr",
+      "room" : "자연과학관 7526-1"
+    },
+    "차흥봉" : {
+      "course1" : "사회과학대학",
+      "room" : "대학본부별관 5201"
+    },
+    "최균" : {
+      "call" : "033-248-1766",
+      "course1" : "사회과학대학",
+      "email" : "gnchoi@hallym.ac.kr",
+      "room" : "사회·경영1관 10417"
+    },
+    "최병돈" : {
+      "call" : "033-248-1831",
+      "course1" : "경영대학",
+      "email" : "bdchoe@hallym.ac.kr",
+      "room" : "사회경영1관 10305"
+    },
+    "최성찬" : {
+      "call" : "033-248-2151",
+      "course1" : "자연과학대학",
+      "email" : "scchoi@hallym.ac.kr",
+      "room" : "생명과학관 8501"
+    },
+    "최수나" : {
+      "course1" : "인문대학",
+      "email" : "kagerou45@hotmail.com"
+    },
+    "최수영" : {
+      "call" : "033-248-2112",
+      "course1" : "자연과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "sychoi@hallym.ac.kr",
+      "room" : "생명과학관 8409"
+    },
+    "최영재" : {
+      "call" : "033-248-1921",
+      "course1" : "미디어스쿨",
+      "course2" : "미래융합스쿨",
+      "email" : "yjchoi@hallym.ac.kr",
+      "room" : "사회·경영1관 10203"
+    },
+    "최영준" : {
+      "call" : "033-248-2663",
+      "course1" : "의과대학",
+      "email" : "ychoe@hallym.ac.kr",
+      "room" : "의학관 3303"
+    },
+    "최용준" : {
+      "call" : "033-248-2666",
+      "course1" : "의과대학",
+      "email" : "ychoi@hallym.ac.kr",
+      "room" : "의학관 3608"
+    },
+    "최유석" : {
+      "call" : "033-248-1777",
+      "course1" : "산학협력특성화대학",
+      "course2" : "사회과학대학",
+      "email" : "yschoi@hallym.ac.kr",
+      "room" : "사회·경영1관 10406"
+    },
+    "최재영" : {
+      "call" : "033-248-1867",
+      "email" : "jyoungchoi@hallym.ac.kr",
+      "room" : "사회경영1관 10326"
+    },
+    "최정화" : {
+      "call" : "033-248-1928",
+      "course1" : "사회과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "jhchoi@hallym.ac.kr",
+      "room" : "사회·경영2관 13406"
+    },
+    "최태강" : {
+      "call" : "033-248-1632",
+      "course1" : "인문대학",
+      "email" : "tkchoi@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2408"
+    },
+    "최훈" : {
+      "call" : "033-248-1728",
+      "course1" : "사회과학대학",
+      "email" : "hoonchoi@hallym.ac.kr",
+      "room" : "사회경영1관 10501"
+    },
+    "카나다스 아이반" : {
+      "call" : "033-248-1537",
+      "course1" : "인문대학",
+      "email" : "i_canadas@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2623"
+    },
+    "하승희" : {
+      "call" : "033-248-2215",
+      "course1" : "자연과학대학",
+      "email" : "shha@hallym.ac.kr",
+      "room" : "생명과학관 8606"
+    },
+    "한경민" : {
+      "call" : "033-248-1534",
+      "course1" : "인문대학",
+      "email" : "kminhan@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2628"
+    },
+    "한규형" : {
+      "call" : "033-248-2115",
+      "course1" : "자연과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "khhan@hallym.ac.kr",
+      "room" : "생명과학관 8401"
+    },
+    "한동욱" : {
+      "call" : "033-248-2365",
+      "course1" : "나노융합스쿨",
+      "email" : "dwhan@hallym.ac.kr",
+      "room" : "산학협력관 22410"
+    },
+    "한상진" : {
+      "course1" : "자연과학대학",
+      "email" : "szhan@hallym.ac.kr"
+    },
+    "한수미" : {
+      "call" : "033-248-1532",
+      "course1" : "미래융합스쿨",
+      "course2" : "인문대학",
+      "email" : "sumihan@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2624"
+    },
+    "한승백" : {
+      "call" : "033-248-2257",
+      "course1" : "자연과학대학",
+      "email" : "sbhan@hallym.ac.kr",
+      "room" : "한림스포츠센터 18214"
+    },
+    "한영욱" : {
+      "call" : "033-248-1820",
+      "course1" : "사회과학대학",
+      "email" : "ywhan@hallym.ac.kr",
+      "room" : "사회.경영1관 10531"
+    },
+    "한우재" : {
+      "call" : "033-248-2216",
+      "course1" : "자연과학대학",
+      "email" : "woojaehan@hallym.ac.kr",
+      "room" : "생명과학관 8603"
+    },
+    "한재훈" : {
+      "call" : "033-248-1844",
+      "course1" : "경영대학",
+      "email" : "jhan@hallym.ac.kr",
+      "room" : "사회경영2관 13210"
+    },
+    "한준희" : {
+      "call" : "033-248-2038",
+      "course1" : "데이터과학융합스쿨",
+      "email" : "hanjh@hallym.ac.kr",
+      "room" : "자연과학관 7506"
+    },
+    "허남순" : {
+      "course1" : "사회과학대학",
+      "email" : "nshuh@hallym.ac.kr",
+      "room" : "대학본부별관 5201"
+    },
+    "허명국" : {
+      "call" : "033-248-1965",
+      "course1" : "사회과학대학",
+      "email" : "heomk@hallym.ac.kr",
+      "room" : "사회·경영2관 13503"
+    },
+    "허선" : {
+      "call" : "033-248-2652",
+      "course1" : "의과대학",
+      "email" : "de2650@hallym.ac.kr",
+      "room" : "의학관 3504"
+    },
+    "허성오" : {
+      "call" : "033-248-2615",
+      "course1" : "미래융합스쿨",
+      "course2" : "의과대학",
+      "email" : "s0huh@hallym.ac.kr",
+      "room" : "의학관 3413"
+    },
+    "홍광엽" : {
+      "course1" : "사회과학대학",
+      "email" : "gyhong@hallym.ac.kr",
+      "room" : "대학본부별관 5201"
+    },
+    "홍석민" : {
+      "call" : "033-248-1927",
+      "course1" : "사회과학대학",
+      "course2" : "미래융합스쿨",
+      "email" : "seokminhong@hallym.ac.kr",
+      "room" : "사회·경영2관 13405"
+    },
+    "홍성하" : {
+      "course1" : "사회과학대학",
+      "email" : "shhong@hallym.ac.kr",
+      "room" : "대학본부별관 5201"
+    },
+    "홍일선" : {
+      "call" : "033-248-1959",
+      "course1" : "사회과학대학",
+      "email" : "matthias@hallym.ac.kr",
+      "room" : "사회·경영2관 13505"
+    },
+    "홍재승" : {
+      "call" : "033-248-2255",
+      "course1" : "자연과학대학",
+      "email" : "jayshong@hallym.ac.kr",
+      "room" : "한림스포츠센터 18218"
+    },
+    "홍택규" : {
+      "call" : "033-248-1635",
+      "course1" : "인문대학",
+      "email" : "jacob@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2410"
+    },
+    "황경자" : {
+      "call" : "033-248-1617",
+      "course1" : "인문대학",
+      "email" : "gjhwang@hallym.ac.kr",
+      "room" : "대학본부·인문1관 2402"
+    },
+    "황정태" : {
+      "call" : "033-248-1842",
+      "course1" : "경영대학",
+      "email" : "jthwang@hallym.ac.kr",
+      "room" : "사회경영2관 13413"
+    },
+    "황현석" : {
+      "call" : "033-248-1835",
+      "course1" : "글로벌융합대학",
+      "course2" : "미래융합스쿨",
+      "course3" : "경영대학",
+      "email" : "hshwang@hallym.ac.kr",
+      "room" : "사회경영1관 10331"
+    }
+  }
+}
