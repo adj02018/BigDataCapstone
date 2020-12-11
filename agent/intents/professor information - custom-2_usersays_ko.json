@@ -1,0 +1,17 @@
+[
+  {
+    "id": "e564e22c-0eb2-4319-994f-7d7e8421e1be",
+    "data": [
+      {
+        "text": "$professor",
+        "meta": "@professor",
+        "alias": "professor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

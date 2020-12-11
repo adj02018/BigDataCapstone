@@ -1,0 +1,162 @@
+[
+  {
+    "id": "0dbfbab5-c334-418b-920a-ca86cc518d74",
+    "data": [
+      {
+        "text": "공학관",
+        "meta": "@construct",
+        "alias": "construct",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "장소",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "007e1d20-4e18-4750-a6a8-d7bb856ce904",
+    "data": [
+      {
+        "text": "공학관",
+        "meta": "@construct",
+        "alias": "construct",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "위치",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "17e2f50e-f62d-4c19-92f9-3b6ee81f3728",
+    "data": [
+      {
+        "text": "공학관",
+        "meta": "@construct",
+        "alias": "construct",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "어디",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6f7ed827-f689-436f-8f85-0f8c9f67ef80",
+    "data": [
+      {
+        "text": "공학관",
+        "meta": "@construct",
+        "alias": "construct",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "어디",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "에있니?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ec20ac33-f652-40f5-bdf2-6836a5548333",
+    "data": [
+      {
+        "text": "공학관",
+        "meta": "@construct",
+        "alias": "construct",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "위치",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "좀 알려줄래?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5339ebef-853e-454e-aff8-0e6f14a5a454",
+    "data": [
+      {
+        "text": "공학관",
+        "meta": "@construct",
+        "alias": "construct",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "어디",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "에 있어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

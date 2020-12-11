@@ -1,0 +1,51 @@
+{
+  "id": "332eeaa9-ee2a-4177-be54-3eec45e841d2",
+  "parentId": "86d27445-e44a-41f0-845a-431ad546db1a",
+  "rootParentId": "86d27445-e44a-41f0-845a-431ad546db1a",
+  "name": "professor information - custom-2",
+  "auto": true,
+  "contexts": [
+    "professorinformation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "professorinformation.professorinformation-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9d11448a-d738-4e7f-b1ee-549da2e1696f",
+          "name": "professor",
+          "required": false,
+          "dataType": "@professor",
+          "value": "$professor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

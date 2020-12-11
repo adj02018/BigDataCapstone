@@ -1,0 +1,56 @@
+[
+  {
+    "id": "7cc987b1-2b24-45f4-8734-aed7369f2de7",
+    "data": [
+      {
+        "text": "Hi",
+        "meta": "@sys.geo-state",
+        "alias": "geo-state",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "8210847f-7eac-41e2-86ac-eee52f968efb",
+    "data": [
+      {
+        "text": "ㅎㅇ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "1f9533c0-2005-489c-bb2a-41053a22bd56",
+    "data": [
+      {
+        "text": "안녕",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "69794c23-ecdd-40c2-a82a-4d55f5a8c5b0",
+    "data": [
+      {
+        "text": "안녕하세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

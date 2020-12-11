@@ -1,0 +1,67 @@
+{
+  "id": "720438e1-3d21-46cb-9d12-14ae97c96311",
+  "name": "home intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "quick_replies": [
+                {
+                  "content_type": "text",
+                  "title": "교수정보",
+                  "payload": "교수정보"
+                },
+                {
+                  "payload": "건물위치",
+                  "content_type": "text",
+                  "title": "건물위치"
+                },
+                {
+                  "content_type": "text",
+                  "payload": "학사일정",
+                  "title": "학사일정"
+                },
+                {
+                  "payload": "한림 스마트리드",
+                  "title": "한림 스마트리드",
+                  "content_type": "text"
+                }
+              ],
+              "text": "자주묻는 질문"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "ko",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

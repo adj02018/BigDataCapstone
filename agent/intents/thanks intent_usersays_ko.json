@@ -1,0 +1,41 @@
+[
+  {
+    "id": "0e722b69-3f44-45a1-9008-6c12402782a3",
+    "data": [
+      {
+        "text": "알려줘서 고마워",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b158adb3-1b90-45d3-a0ef-8d67415ad037",
+    "data": [
+      {
+        "text": "멋지구나",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "54668d3d-e8b3-4a7e-8b5d-31680902dfaf",
+    "data": [
+      {
+        "text": "고마워",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

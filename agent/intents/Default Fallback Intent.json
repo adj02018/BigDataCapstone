@@ -1,0 +1,87 @@
+{
+  "id": "eda2506c-50e7-49e3-8616-43d84d053f58",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "죄송합니다. 해당 정보는 아는 바가 없네요.  더 궁금한게 있으신가요?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "quick_replies": [
+                {
+                  "payload": "교수정보",
+                  "title": "교수정보",
+                  "content_type": "text"
+                },
+                {
+                  "payload": "건물위치",
+                  "content_type": "text",
+                  "title": "건물위치"
+                },
+                {
+                  "payload": "학사일정",
+                  "title": "학사일정",
+                  "content_type": "text"
+                },
+                {
+                  "payload": "한림 스마트리드",
+                  "title": "한림 스마트리드",
+                  "content_type": "text"
+                }
+              ],
+              "text": "자주 묻는 질문"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "ko",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "마지막에 말씀을 잘 못 이해 한것 같아요.",
+            "방금 하신 말씀을 잘 못 알아들었어요.",
+            "죄송해요. 다시 들려 주실래요?",
+            "제가 제대로 이해하고 있는지 잘 모르겠어요.",
+            "제가 제대로 이해하지 못한것 같아요. 죄송해요.",
+            "조금 헷갈리는데요."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

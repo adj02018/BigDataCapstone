@@ -1,0 +1,75 @@
+{
+  "id": "ca6246a1-bf71-4755-a66f-68a442884deb",
+  "parentId": "86d27445-e44a-41f0-845a-431ad546db1a",
+  "rootParentId": "86d27445-e44a-41f0-845a-431ad546db1a",
+  "name": "professor information - custom",
+  "auto": true,
+  "contexts": [
+    "professorinformation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "professorinformation.professorinformation-custom",
+      "affectedContexts": [
+        {
+          "name": "professorinformation-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5a7643bd-2d5f-4e60-a5af-3d5a78f57f4d",
+          "name": "professor",
+          "required": true,
+          "dataType": "@professor",
+          "value": "$professor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "ko",
+              "value": "$major_info         [교수명을 입력해주세요. 종료::Q]"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "abfad557-8749-4c77-8d93-29d972939693",
+          "name": "major_info",
+          "required": true,
+          "dataType": "@major_info",
+          "value": "$major_info",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

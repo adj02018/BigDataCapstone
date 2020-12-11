@@ -1,0 +1,112 @@
+[
+  {
+    "id": "e4d35b35-d15a-4e84-8b5c-73edf81a1dbb",
+    "data": [
+      {
+        "text": "ㅂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c9f6b5bd-67b0-445b-8b27-9d102fdc5a11",
+    "data": [
+      {
+        "text": "q",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "97d2f604-858a-4056-bd8e-f3d27778c8d8",
+    "data": [
+      {
+        "text": "Q",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "f7c9b471-335d-40b9-994b-e318586e2a63",
+    "data": [
+      {
+        "text": "처음",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 화면",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "986d726b-eb8c-428f-bf53-24335ef1e6d3",
+    "data": [
+      {
+        "text": "처음",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5bafbfb4-e3c8-4958-b7bd-92a45f81e55b",
+    "data": [
+      {
+        "text": "홈 화면",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "35a6d213-7ff2-44bc-872a-7039694cb45d",
+    "data": [
+      {
+        "text": "홈화면",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "704a8faa-25f2-43aa-94c3-6626c3465a7b",
+    "data": [
+      {
+        "text": "홈",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

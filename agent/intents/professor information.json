@@ -1,0 +1,105 @@
+{
+  "id": "86d27445-e44a-41f0-845a-431ad546db1a",
+  "name": "professor information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "professorinformation-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "text": "찾으려는 학과를 선택하시거나 교수명을 입력해주세요.",
+              "quick_replies": [
+                {
+                  "payload": "인문대학",
+                  "title": "인문대학",
+                  "content_type": "text"
+                },
+                {
+                  "payload": "사회과학대학",
+                  "title": "사회과학대학",
+                  "content_type": "text"
+                },
+                {
+                  "payload": "경영대학",
+                  "title": "경영대학",
+                  "content_type": "text"
+                },
+                {
+                  "title": "의과대학 / 간호대학",
+                  "payload": "의과대학 / 간호대학",
+                  "content_type": "text"
+                },
+                {
+                  "content_type": "text",
+                  "payload": "글로벌융합대학",
+                  "title": "글로벌융합대학"
+                },
+                {
+                  "title": "미디어스쿨",
+                  "content_type": "text",
+                  "payload": "미디어스쿨"
+                },
+                {
+                  "title": "데이터과학융합스쿨",
+                  "content_type": "text",
+                  "payload": "데이터과학융합스쿨"
+                },
+                {
+                  "title": "나노융합스쿨",
+                  "content_type": "text",
+                  "payload": "나노융합스쿨"
+                },
+                {
+                  "payload": "소프트웨어융합대학",
+                  "content_type": "text",
+                  "title": "소프트웨어융합대학"
+                },
+                {
+                  "payload": "미래융합스쿨",
+                  "content_type": "text",
+                  "title": "미래융합스쿨"
+                }
+              ]
+            }
+          },
+          "textToSpeech": "",
+          "lang": "ko",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "교수님 응답"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

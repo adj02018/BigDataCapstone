@@ -1,0 +1,106 @@
+[
+  {
+    "id": "606389bc-2d7b-4c67-8558-d89c7058c00a",
+    "data": [
+      {
+        "text": "smartlead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "728ff7f7-865b-4f86-b8b3-2c3efd1dfa37",
+    "data": [
+      {
+        "text": "한림",
+        "userDefined": false
+      },
+      {
+        "text": "스마트",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "리드",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7a8eef20-bdcd-4de9-b3df-20130bdf6864",
+    "data": [
+      {
+        "text": "한림",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "스마트",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "리드",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "fb8e6f31-c3a4-4825-bd58-757158528401",
+    "data": [
+      {
+        "text": "스마트",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 리드",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "1af1ace8-84e4-433f-978c-f7654c02835d",
+    "data": [
+      {
+        "text": "스마트",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "리드",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

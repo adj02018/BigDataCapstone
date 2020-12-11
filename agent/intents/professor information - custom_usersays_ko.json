@@ -1,0 +1,17 @@
+[
+  {
+    "id": "c3b0ef9c-453d-47ad-83de-ceef16d30280",
+    "data": [
+      {
+        "text": "$major_",
+        "meta": "@major_info",
+        "alias": "major_info",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

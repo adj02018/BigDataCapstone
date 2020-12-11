@@ -1,0 +1,38 @@
+[
+  {
+    "id": "244d4848-1bef-4ff3-8f12-3a9bcc29404e",
+    "data": [
+      {
+        "text": "학사 ",
+        "userDefined": false
+      },
+      {
+        "text": "일정",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "0d27d638-0f3c-4271-8cf4-d68503de98b9",
+    "data": [
+      {
+        "text": "학사",
+        "userDefined": false
+      },
+      {
+        "text": "일정",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

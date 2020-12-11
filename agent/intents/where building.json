@@ -1,0 +1,52 @@
+{
+  "id": "c1eee2ad-e7f6-41dd-b4b3-0b2153914bd7",
+  "name": "where building",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "where_building-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6e92ebe3-83eb-4962-a864-061601eb3f8b",
+          "name": "construct",
+          "required": true,
+          "dataType": "@construct",
+          "value": "$construct",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

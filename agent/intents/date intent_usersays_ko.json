@@ -1,0 +1,93 @@
+[
+  {
+    "id": "56fd3647-5d13-4b9f-8b03-d0518642c89a",
+    "data": [
+      {
+        "text": "$date",
+        "meta": "@date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5171ab2d-6d7e-4cff-83a4-faae053ff5a3",
+    "data": [
+      {
+        "text": "$date",
+        "meta": "@date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " 언제 부터?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "3f3e65e8-4d40-4dfb-8791-a510941624ec",
+    "data": [
+      {
+        "text": "$date",
+        "meta": "@date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": "  어느요일?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "e87ef7a9-76e3-40ed-942f-4b3c2421bfc8",
+    "data": [
+      {
+        "text": "$date",
+        "meta": "@date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " 언제 입니까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c976e47e-f9a4-470e-b647-c27662a227c3",
+    "data": [
+      {
+        "text": "$date",
+        "meta": "@date",
+        "alias": "date",
+        "userDefined": true
+      },
+      {
+        "text": " 언제야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

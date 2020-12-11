@@ -1,0 +1,37 @@
+{
+  "id": "f7e49874-c41f-441b-96eb-546ddde2e5cc",
+  "parentId": "e32b27b0-a146-4d45-985c-b393b140be11",
+  "rootParentId": "86d27445-e44a-41f0-845a-431ad546db1a",
+  "name": "professor who - custom - custom",
+  "auto": true,
+  "contexts": [
+    "professorwho-followup-name",
+    "professorwho-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "professorwho.professorwho-custom.professorwho-custom-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

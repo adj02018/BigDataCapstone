@@ -1,0 +1,216 @@
+[
+  {
+    "id": "4ada0f05-1b60-4940-8a94-2fa297990ddf",
+    "data": [
+      {
+        "text": "교수",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "정보",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "9654f1c8-38f5-4fd9-be41-3ab6ffcaa9a4",
+    "data": [
+      {
+        "text": "교수님 정보",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "faf20fc6-fbe0-4c7d-87f2-685e99a6b36e",
+    "data": [
+      {
+        "text": "교수님",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 이메일",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a5666d94-4f7a-4d95-a20b-fb6d79e80edc",
+    "data": [
+      {
+        "text": "교수",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 연락처",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "bf1d0e73-500c-420c-aff8-7bc01a6fffd4",
+    "data": [
+      {
+        "text": "교수님",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 연락처",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "111ae495-c6a0-4431-a2e9-da14837f452e",
+    "data": [
+      {
+        "text": "교수님",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 전화번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5056343c-fee4-402e-929f-2865f982d9cd",
+    "data": [
+      {
+        "text": "교수님",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "연구실",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "1b2524d1-db76-4a17-888a-937c95e8c4f1",
+    "data": [
+      {
+        "text": "교수",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "연구실",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "147233ce-fa10-47fb-8b9e-86ba0f57fc71",
+    "data": [
+      {
+        "text": "교수",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 이메일",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ab2a15d1-f63d-4dd8-9e64-c8a883d1124c",
+    "data": [
+      {
+        "text": "교수",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 전화번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "8b8dd445-6332-4dd8-a94d-847c3e56e3ac",
+    "data": [
+      {
+        "text": "교수",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "2499d663-421c-42c9-ab95-c5b9dd5b6824",
+    "data": [
+      {
+        "text": "교수님",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

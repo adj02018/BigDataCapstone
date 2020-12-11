@@ -1,0 +1,174 @@
+{
+  "id": "40de1b5e-2e41-42cf-861e-4ce80b2b93f9",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7c803b56-822f-4532-83bd-f6afb9bb099b",
+          "name": "geo-state",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "value": "$geo-state",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "facebook",
+          "imageUrl": "https://yt3.ggpht.com/ytc/AAUvwnhXIv-tLVCp9qVUQYeNLpJLPGkIy61Sy5UNQki6mw\u003ds900-c-k-c0x00ffffff-no-rj",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "어서오세요! \u0027한림대 뭐든 물어보세요\u0027 입니다."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "학교와 관련되어 여러분들께서 궁금해 하시는 질문에 대해 알려드립니다."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "무엇을 도와드릴까요?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "platform": "facebook",
+          "title": "",
+          "payload": {
+            "facebook": {
+              "quick_replies": [
+                {
+                  "payload": "교수정보",
+                  "content_type": "text",
+                  "title": "교수정보"
+                },
+                {
+                  "title": "건물위치",
+                  "payload": "건물위치",
+                  "content_type": "text"
+                },
+                {
+                  "content_type": "text",
+                  "payload": "학사일정",
+                  "title": "학사일정"
+                },
+                {
+                  "content_type": "text",
+                  "title": "한림 스마트리드",
+                  "payload": "한림 스마트리드"
+                }
+              ],
+              "text": "자주 묻는 질문"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "ko",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "어서오세요!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "ㅎㅇ"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "어서오세요!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "few"
+            },
+            {
+              "title": "ewfwe"
+            },
+            {
+              "title": "ee"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "FACEBOOK_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

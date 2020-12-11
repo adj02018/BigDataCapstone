@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9cbdbd2f-aa77-4318-851b-2d4e11dd9878",
+    "data": [
+      {
+        "text": "건물",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "위치",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "0ea72a73-0331-4ed6-a380-82b00af20390",
+    "data": [
+      {
+        "text": "건물",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 위치",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

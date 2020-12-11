@@ -1,0 +1,51 @@
+{
+  "id": "9cf43123-bb99-45bd-8583-a38df4be79c6",
+  "parentId": "f1dd6f2c-8211-4a33-9638-344f753b8981",
+  "rootParentId": "f1dd6f2c-8211-4a33-9638-344f753b8981",
+  "name": "location intent - custom",
+  "auto": true,
+  "contexts": [
+    "locationintent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "locationintent.locationintent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "31bf9cb1-d709-43d5-a9e6-99d13b67771b",
+          "name": "construct",
+          "required": false,
+          "dataType": "@construct",
+          "value": "$construct",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
